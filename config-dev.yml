@@ -1,1 +1,2 @@
-config-dev version = 1.0
+config:
+  info: dev-config-dev version = 1.0
